@@ -9,3 +9,6 @@ My code triggers the animation effect through user interaction. When the user pr
 
 
 Based on the existing group code, I added interactive features, including mouse clicks and keyboard input. In particular, I implemented the generation of falling random-color rectangles by pressing the a key, the clearing of the canvas by pressing the c key, and the control of the start and stop of random image generation by mouse clicks.
+
+reference
+https://p5js.org/reference/
